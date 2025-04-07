@@ -23,5 +23,5 @@ The approach emphasizes conceptual clarity, reproducibility, and practical imple
 - **Jupyter Notebook**
 - **NumPy / SciPy** – numerical/statistical computations  
 - **Pandas** – data wrangling  
-- **Matplotlib / Seaborn** – plotting and visualization  
+- **Matplotlib** – plotting and visualization  
 - **PyMC3 / NumPyro (if used)** – probabilistic modeling  
