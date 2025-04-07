@@ -17,11 +17,10 @@ The approach emphasizes conceptual clarity, reproducibility, and practical imple
 
 ---
 
-## 🔧 Technologies
+## 🛠️ Technologies Used
 
 - **Python 3.10+**
-- **Jupyter Notebook**
-- **NumPy / SciPy** – numerical/statistical computations  
-- **Pandas** – data wrangling  
-- **Matplotlib** – plotting and visualization  
-- **PyMC3 / NumPyro (if used)** – probabilistic modeling  
+- **Jupyter Notebooks**
+- **PyMC3 / NumPyro** – probabilistic programming
+- **Matplotlib** – visual analytics
+- **Pandas / NumPy / SciPy** – numerical and data operations
