@@ -1,6 +1,6 @@
 # 🎲 Final Project – Probest 2023.2
 
-This repository contains the final project notebook for the **Probabilistic Models and Statistics** course.
+This repository contains the final project notebook for the **Probabilistic Models and Statistics** course of the second semester of 2023.
 
 ---
 
